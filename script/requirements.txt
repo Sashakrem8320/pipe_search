@@ -1,0 +1,6 @@
+pip install ultralytics
+pip install opencv-python
+pip install torch
+pip install tqdm
+pip install pandas
+pip install json

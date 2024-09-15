@@ -1,0 +1,4 @@
+img_path,annot_path,pipe_class,pipe_count
+img/IMG_2918.JPG,masks/mask_IMG_2918.jpg,0,127
+img/IMG_2955.JPG,masks/mask_IMG_2955.jpg,0,104
+img/IMG_2956.JPG,masks/mask_IMG_2956.jpg,0,104
