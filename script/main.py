@@ -7,11 +7,6 @@ import tqdm
 import pandas as pd
 import json
 import os
-import wget
-
-
-
-
 
 with open("config.json", "r") as f:
     data = json.load(f)
